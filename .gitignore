@@ -3,3 +3,4 @@
 composer.lock
 .htaccess
 .idea
+.env
